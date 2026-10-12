@@ -1,6 +1,5 @@
 # 02 — Technology Knowledge Base
-
-Technology-specific reference pages belong here. Keep these pages focused on how to use and operate a technology, while decision criteria remain in `01-decision-frameworks/`.
+How to use and operate a technology, while decision criteria remain in `01-decision-frameworks/`.
 
 ## Planned pages
 
